@@ -1,4 +1,3 @@
-# W.I.P
 ## **My Gameplay 😼**
 
 <img src="./assets/rocket_league.gif" alt="rocket_league.gif" width="460"/>
@@ -6,13 +5,13 @@
 [ Stereo - Tokyo Machine ]
 
 
-### **Projects / Experiences**
+### Projects / Experiences
 - 
 
-### **Activities**
+### Activities
 -
 
-### **Connect with ME**
+### Connect with **ME**
 - LinkedIn :: https://www.linkedin.com/in/jonah-phillips-hcc/
 - Dev page :: *N/a*
 
@@ -30,6 +29,7 @@
 <img src="./assets/sa2-sonic-adventure2.gif" alt="sa2-sonic-adventure2.gif" width="460"/>
 
 [ Open Your Heart - Crush40 ]
+
 
 ***... well, I think I'm a verry energetic and adventurous person!***
 
