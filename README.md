@@ -6,7 +6,7 @@
 [ Stereo - Tokyo Machine ]
 
 
-### **Projecs / Experiences**
+### **Projects / Experiences**
 - 
 
 ### **Activities**
@@ -25,7 +25,7 @@
 <img src="https://icongr.am/devicon/github-original.svg?size=45&color=currentColor" alt="GitHub icon"/>
 <img src="https://icongr.am/devicon/docker-original.svg?size=45&color=currentColor" alt="Docker icon"/> -->
 
-## **A little bio about Me 🧬👽**
+## **A little bio about Me 👽**
 
 <img src="./assets/sa2-sonic-adventure2.gif" alt="sa2-sonic-adventure2.gif" width="460"/>
 
