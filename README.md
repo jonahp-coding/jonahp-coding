@@ -1,3 +1,4 @@
+# W.I.P
 ## **My Gameplay 😼**
 
 <img src="./assets/rocket_league.gif" alt="rocket_league.gif" width="460"/>
@@ -15,14 +16,14 @@
 - LinkedIn :: https://www.linkedin.com/in/jonah-phillips-hcc/
 - Dev page :: N/a
 
-<br>
+<!--<br>
 
 <img src="https://icongr.am/devicon/c-original.svg?size=45&color=currentColor" alt="C icon"/>
 <img src="https://icongr.am/devicon/cplusplus-original.svg?size=45&color=currentColor" alt="C++ icon"/>
 <img src="https://icongr.am/devicon/python-original.svg?size=45&color=currentColor" alt="Python icon"/>
 <img src="https://icongr.am/devicon/git-original.svg?size=45&color=currentColor" alt="Git icon"/>
-<!--<img src="https://icongr.am/devicon/github-original.svg?size=45&color=currentColor" alt="GitHub icon"/>-->
-<img src="https://icongr.am/devicon/docker-original.svg?size=45&color=currentColor" alt="Docker icon"/>
+<img src="https://icongr.am/devicon/github-original.svg?size=45&color=currentColor" alt="GitHub icon"/>
+<img src="https://icongr.am/devicon/docker-original.svg?size=45&color=currentColor" alt="Docker icon"/> -->
 
 ## **A little bio about Me 🧬👽**
 
@@ -32,4 +33,4 @@
 
 ***... well, I think I'm a verry energetic and adventurous person!***
 
-_[ note to add longer informal bio link here. ]_
+_[ note to add link to longer informal bio here. ]_
