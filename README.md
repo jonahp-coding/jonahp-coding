@@ -2,7 +2,7 @@
 
 ### A little Bio about Me! 🧬👽
 
-[sonic_adventure_2.gif](C:\Users\jonah\Downloads\sa2-sonic-adventure2.gif)
+![sonic_adventure_2.gif]("C:\Users\jonah\Downloads\sa2-sonic-adventure2.gif")
 
 I was raised and educated in a home-school system, elementary until high-school, by my Mom, who got her MBA from Rice University. Now, I studying for my **Bachelor's in Robotics & AI** at Houston Community College (HCC), in Houston, TX.
 
