@@ -14,7 +14,7 @@
 
 ### **Connect with ME**
 - LinkedIn :: https://www.linkedin.com/in/jonah-phillips-hcc/
-- Dev page :: N/a
+- Dev page :: *N/a*
 
 <!--<br>
 
@@ -33,4 +33,8 @@
 
 ***... well, I think I'm a verry energetic and adventurous person!***
 
-_[ note to add link to longer informal bio here. ]_
+### Growing up 🐻
+
+### Hobbies 🎮
+
+*[ note to add link to longer informal bio here. ]*
